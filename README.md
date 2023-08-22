@@ -17,3 +17,5 @@ Listed below are our group's project scripts
 # Windows 10 Remote Access Setup Walkthrough: (Authored by Renee)
 >Link: https://docs.google.com/document/d/1wKBmtuhRVD5MzZb87EkGwg05v33cz5bjk7GcuE66mQ0/edit
 
+# Ubuntu Remote Access Setup Walkthrough: (Authored by Renee)
+>Link: https://docs.google.com/document/d/1wNVXBef2ic6NoLaKwrcZrtHg2jGSRQs6ZWgf_IIezgc/edit
